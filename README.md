@@ -1,4 +1,8 @@
-## Hi there 👋
+## Bem Vindo ao meu perfil 💜
+Meu nome e Leonardo Borges Gomes 
+Sou estudante do Ensino Medio na escola Eduado Velho Filho e vou ser o melhor piloto de caça da historia!
+
+Para entrar em contato 0000107546691xsp@al.educacao.sp.gov.br
 
 <!--
 **LeonardoREIdoCAPA/LeonardoREIdoCAPA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
